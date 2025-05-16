@@ -13,7 +13,8 @@ This Arduino project interfaces with the **Pixy2 Vision Sensor** to detect barco
 - Arduino-compatible board (e.g., Arduino Uno, Mega, Leonardo)
 - [Pixy2.1 cam]
 - USB cable for programming
-- Optional:I used servos to make a center stage function of the camera.
+- Optional:I used servos to make a center stage function of the camera.(PANTILT mode in PixyMon)
+-In progress to make own code for the pantilt 
 
 ## Software Requirements
 
@@ -34,7 +35,7 @@ Alternatively, download from the [[official GitHub repository](https://github.co
 ## Setup Instructions
 
 1. Connect the Pixy2 sensor to the Arduino using the ICSP port or via I2C/Serial as supported.
-2. Upload the code from [`pixy_barcode_reader.ino`](./pixy_barcode_reader.ino) to your Arduino.
+2. Upload the code from [https://github.com/Embedded-IOT-Project/PIXY2.1/blob/main/BARCODE_READING.ino] to your Arduino.
 3. Open the Serial Monitor at **115200 baud**.
 4. Present a barcode in front of the Pixy2; the command will be displayed based on its value.
 
