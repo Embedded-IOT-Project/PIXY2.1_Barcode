@@ -61,7 +61,10 @@ Alternatively, download from the [[official GitHub repository](https://github.co
 | 15            | MOVE DIAGONALLY FORWARD-RIGHT       |
 
 ## Customization
+![1b22808a-bcf1-4e2e-8b9b-be12f2507b74](https://github.com/user-attachments/assets/014284b7-2963-4a00-a95a-418a2181131f)
+![bbe917fb-3aa6-47d6-9490-559cb6e5f673](https://github.com/user-attachments/assets/d73c2080-e74c-4dd9-9085-11019d9e1bbf)
+
 
 You can modify the pixy 2.1 from the PixyMon app to allign with your assignments.There is Line tracking,Color codes for object detection and also barcode detection
 
-Created by [SHIVESH]
+Created by [SHIVESH NAGARAJAN]
